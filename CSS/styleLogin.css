@@ -1,5 +1,6 @@
 body{
     background-image: url(../image/BODY/background-body.png);
+    background-size: cover;
     background-attachment: fixed;
     padding: 0px;
     margin: 0px;
